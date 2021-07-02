@@ -15,7 +15,7 @@ void myInit(void)
 void myDisplay(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
-
+		glvertex2f(20,20);
 	glFlush();
 }
 
